@@ -114,11 +114,15 @@ int main(void) {
 
 
 ## OUTPUT
-$ ./sem.o 
+$ ./sem.o
+
+
 <img width="423" height="292" alt="image" src="https://github.com/user-attachments/assets/f462d4e3-76fa-46cf-ab26-653f351e1852" />
 
 
 $ ipcs
+
+
 <img width="517" height="111" alt="image" src="https://github.com/user-attachments/assets/33973df7-4935-42c7-a1ab-8f6502482ed9" />
 
 
